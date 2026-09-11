@@ -238,3 +238,6 @@ This repository serves as the official landing page for Movavi Media Player. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Movavi Media Player today!**
+
+---
+**Last updated:** 2026-09-11 07:03:55 UTC
