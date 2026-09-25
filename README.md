@@ -240,4 +240,4 @@ This repository serves as the official landing page for Movavi Media Player. The
 **Get the most recent version of Movavi Media Player today!**
 
 ---
-**Last updated:** 2026-09-24 22:02:07 UTC
+**Last updated:** 2026-09-25 01:11:19 UTC
